@@ -1,4 +1,4 @@
-# airline_twitter_capstone
+# Twitter US Airline Sentiment Analysis
 
 Air travel is a huge business in the US. Since Air travel is a service industry Airlines will want
 to know how they can improve or what they need to do better from their customers. People are
